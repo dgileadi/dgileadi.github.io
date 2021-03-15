@@ -1,1 +1,11 @@
+lsi: false
+safe: true
 theme: jekyll-theme-cayman
+include: [.well-known]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
