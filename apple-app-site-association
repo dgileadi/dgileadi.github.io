@@ -1,12 +1,9 @@
----
-permalink: /apple-app-site-association
----
 {
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "<YOUR_TEAM_ID_FROM_MEMBER_CENTER>.com.sixsistersstrong.challenge",
+        "appID": "7V3YK53M3N.com.sixsistersstrong.challenge",
         "paths": [
           "/sixsisterschallenge*"
         ]
